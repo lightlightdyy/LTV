@@ -7,5 +7,4 @@
 * MSE = 6.5
 
 <img src="https://github.com/lightlightdyy/LTV/blob/master/images/lstm_ltv.png" width="375">
-
-
+<img src="https://github.com/lightlightdyy/LTV/blob/master/images/lstm_ltv_error.png" width="375">

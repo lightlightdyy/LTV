@@ -6,7 +6,7 @@
 * 预测：每个乘客下一周打车频数（finish_order_num）
 * MSE = 6.5
 
-![]{https://github.com/lightlightdyy/LTV/blob/master/images/lstm_ltv.png}
+![](https://github.com/lightlightdyy/LTV/blob/master/images/lstm_ltv.png)
 
 
 

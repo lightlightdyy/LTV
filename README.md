@@ -7,6 +7,6 @@
 * MSE = 6.5
 
 ![](https://github.com/lightlightdyy/LTV/blob/master/images/lstm_ltv.png width=50%)
-
+<img src="https://github.com/lightlightdyy/LTV/blob/master/images/lstm_ltv.png" width="375">
 
 

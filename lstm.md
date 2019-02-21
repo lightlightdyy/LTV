@@ -317,7 +317,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](https://github.com/lightlightdyy/LTV/blob/master/images/output_12_0.png)
 
 
 
@@ -328,5 +328,5 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](https://github.com/lightlightdyy/LTV/blob/master/images/output_13_0.png)
 
